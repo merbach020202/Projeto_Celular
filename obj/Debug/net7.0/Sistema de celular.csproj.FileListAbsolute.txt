@@ -1,0 +1,15 @@
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\bin\Debug\net7.0\Sistema de celular.exe
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\bin\Debug\net7.0\Sistema de celular.deps.json
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\bin\Debug\net7.0\Sistema de celular.runtimeconfig.json
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\bin\Debug\net7.0\Sistema de celular.dll
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\bin\Debug\net7.0\Sistema de celular.pdb
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.dll
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\refint\Sistema de celular.dll
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.pdb
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\ref\Sistema de celular.dll
