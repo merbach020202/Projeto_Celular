@@ -27,31 +27,42 @@ namespace Celular
             Console.ForegroundColor = ConsoleColor.Red;
             BarraCarregamento("Desligando", 6, 450);
             Console.ResetColor();
-            Environment.Exit(10);
+            Environment.Exit(0);
         }
 
         public void FazerLigacao()
         {
-            Console.WriteLine(@$"Digite o nome da pessoa que receberá a ligação: ");
+            Console.WriteLine(@$"
+Digite o nome da pessoa que receberá a ligação: ");
             string recebeMensagem = Console.ReadLine();
 
-            BarraCarregamento("Efetuando ligação", 6, 450);
+            Console.ForegroundColor = ConsoleColor.Blue;
+            BarraCarregamento(@"
+Efetuando ligação", 6, 450);
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"ligação efetuada!");
+            Console.WriteLine(@$"
+
+{recebeMensagem} recebeu a ligação!");
             Console.ResetColor();
         }
 
         public void EnviarMensagem()
         {
-            Console.WriteLine(@$"Digite o nome da pessoa que receberá a mensagem:");
+            Console.WriteLine(@$"
+Digite o nome da pessoa que receberá a mensagem:");
             string recebeMensagem = Console.ReadLine();
 
-            Console.WriteLine(@$"Digite a mensagem: ");
+            Console.WriteLine(@$"
+Digite a mensagem: ");
             string mensagem = Console.ReadLine();
 
-            BarraCarregamento("Enviando a mensagem", 6, 450);
+            Console.ForegroundColor = ConsoleColor.Blue;
+            BarraCarregamento(@"
+Enviando a mensagem", 6, 450);
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"Mensagem enviada!");
+            Console.WriteLine(@$"
+
+{recebeMensagem} recebeu a mensagem: ({mensagem})");
             Console.ResetColor();
         }
 

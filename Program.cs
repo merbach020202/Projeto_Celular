@@ -21,22 +21,41 @@ BarraCarregamento("Ligando", 7, 450);
 Console.ResetColor();
 Console.Clear();
 
-Console.WriteLine(@$"
+int opcoes;
+
+do
+{
+    Console.WriteLine(@$"
 --------MENU--------
 1 - Fazer ligacão
 2 - Enviar mensagem
 3 - Desligar
 ");
-string opcoes = Console.ReadLine();
+    opcoes = int.Parse(Console.ReadLine());
 
-switch (opcoes)
-{
-    case "1":
-    celular.FazerLigacao();
-        break;
-    default:
-        break
-}
+    switch (opcoes)
+    {
+        case 1:
+            celular.FazerLigacao();
+            break;
+
+        case 2:
+            celular.EnviarMensagem();
+            break;
+        case 3:
+            celular.Desligar();
+            break;
+        default:
+            Console.WriteLine($"Opção inválida, digite novamente!");
+            break;
+    }
+
+} while (opcoes == 1 || opcoes == 2 || opcoes > 3 || opcoes < 1);
+
+
+
+
+
 
 
 

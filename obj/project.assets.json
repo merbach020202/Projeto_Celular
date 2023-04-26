@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Classes\\Sistema de celular\\Sistema de celular.csproj",
-      "projectName": "Sistema de celular",
-      "projectPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Classes\\Sistema de celular\\Sistema de celular.csproj",
+      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Classes\\Celular\\Sistema de Celular.csproj",
+      "projectName": "Sistema de Celular",
+      "projectPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Classes\\Celular\\Sistema de Celular.csproj",
       "packagesPath": "C:\\Users\\44850641822\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Classes\\Sistema de celular\\obj\\",
+      "outputPath": "C:\\Users\\44850641822\\Desktop\\BackEnd\\Classes\\Celular\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44850641822\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Sistema de celular/1.0.0": {
+      "Sistema de Celular/1.0.0": {
         "runtime": {
-          "Sistema de celular.dll": {}
+          "Sistema de Celular.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Sistema de celular/1.0.0": {
+    "Sistema de Celular/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

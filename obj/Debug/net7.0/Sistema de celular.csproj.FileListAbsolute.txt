@@ -13,3 +13,18 @@ C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0
 C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.pdb
 C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\Sistema de celular.genruntimeconfig.cache
 C:\Users\44850641822\Desktop\BackEnd\Classes\Sistema de celular\obj\Debug\net7.0\ref\Sistema de celular.dll
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\bin\Debug\net7.0\Sistema de Celular.exe
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\bin\Debug\net7.0\Sistema de Celular.deps.json
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\bin\Debug\net7.0\Sistema de Celular.runtimeconfig.json
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\bin\Debug\net7.0\Sistema de Celular.dll
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\bin\Debug\net7.0\Sistema de Celular.pdb
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.dll
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\refint\Sistema de Celular.dll
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.pdb
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\Sistema de Celular.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\BackEnd\Classes\Celular\obj\Debug\net7.0\ref\Sistema de Celular.dll
