@@ -46,7 +46,9 @@ do
             celular.Desligar();
             break;
         default:
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"Opção inválida, digite novamente!");
+            Console.ResetColor();
             break;
     }
 
